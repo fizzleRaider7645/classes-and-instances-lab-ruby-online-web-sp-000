@@ -11,4 +11,4 @@ end
 end
 
 fido = Dog.new("fido")
-fido.class
+puts fido.class
