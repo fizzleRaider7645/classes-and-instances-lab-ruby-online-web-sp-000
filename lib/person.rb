@@ -5,4 +5,4 @@ class Person
 end
 
 adele_goldberg = Person.new("Adele Goldberg")
-alan
+alan_kay = Person.new("Alan Kay")
